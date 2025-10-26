@@ -10,11 +10,10 @@
 
 /* shared style */
 .secondary-bg{
-    background-color: #FFF8F3;
+    background-color: #FFF8F3;;
 }
 .text-primary{
     color: #5db9ee;
-
 }
 .dark-2{
     color: #474747;
@@ -129,11 +128,10 @@ nav li a:hover {
 
     
     border-radius: 90px 90px 90px;
-    
-
-    
-    
+      
 }
+
+
 
 /* main styles */
 main{
